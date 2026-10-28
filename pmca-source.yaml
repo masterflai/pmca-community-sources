@@ -18,3 +18,15 @@ release:
   type: github
   user: obs1dium
   repo: FocusBracket
+---
+kind: app
+package: com.jpegcam.sony
+name: JPEGCAM
+author: jbuch1984 (James)
+desc: Film looks straight out of the camera - pick a recipe, the camera saves the finished JPEG
+homepage: https://jpeg.cam
+cert_sha256: 1275de56914a2950a49a58665342f9dfc113ab53dc760aa11d8137b6044c7904
+release:
+  type: json
+  url: https://jpegcookbook.com/jpegcam-release.json
+  download: https://get.jpeg.cam/JPEGCAM-v{version}.apk?build={build}
