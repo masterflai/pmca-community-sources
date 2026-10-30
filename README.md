@@ -1,8 +1,9 @@
 # PMCA community sources
 
-A source for [PMCA-RE RELOADED](https://github.com/masterflai/pmca-re-reloaded) that keeps
-camera apps installable whose authors have archived their projects, and lists apps whose
-authors asked to be listed here.
+A source for [PMCA-RE RELOADED](https://github.com/masterflai/pmca-re-reloaded) that gathers
+camera apps for Sony's PlayMemories Camera Apps platform in one list: actively developed apps
+whose authors agreed to be listed, and apps whose authors have archived their projects, so
+those stay installable.
 
 This repository hosts no apps. Every entry in `pmca-source.yaml` points to the **author's
 official release location** (their GitHub releases or their own server): the APK you install
@@ -44,4 +45,4 @@ mention @masterflai, and it will be removed right away. If you publish your own
 `pmca-source.yaml` ([format](https://github.com/masterflai/pmca-re-reloaded/blob/main/docs/app-sources.md)),
 your entry here will be replaced by a pointer to your source.
 
-Suggestions for other archived or unmaintained apps are welcome as issues.
+Suggestions for other apps are welcome as issues.
