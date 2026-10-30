@@ -20,7 +20,7 @@ Nothing here is modified or rebuilt.
 
 BetterManual and FocusBracket are MIT-licensed, Recipe Lab is GPL-3.0. Recipe Lab's author
 publishes his own source (`voxivoid/recipe-lab-sony-pmca`); the entry here is identical to it,
-so the app is shown once even if you add both. JPEGCAM is free to use in its Light edition;
+so if you add both, either row installs the same file from his releases. JPEGCAM is free to use in its Light edition;
 the optional Pro license is sold by its author at [jpeg.cam](https://jpeg.cam). It is listed
 with its author's permission: the APK is always downloaded from his servers, and the program
 installs it only if it is signed with his certificate (`cert_sha256` in the entry), the first
