@@ -16,8 +16,11 @@ Nothing here is modified or rebuilt.
 | BetterManual | [obs1dium](https://github.com/obs1dium) | Improved manual shooting, made for the Alpha 5100 | [obs1dium/BetterManual](https://github.com/obs1dium/BetterManual) |
 | FocusBracket | [obs1dium](https://github.com/obs1dium) | Proof-of-concept focus bracketing | [obs1dium/FocusBracket](https://github.com/obs1dium/FocusBracket) |
 | JPEGCAM | James (jbuch1984) | Film looks straight out of the camera: pick a recipe, the camera saves the finished JPEG | [jpeg.cam](https://jpeg.cam) |
+| Recipe Lab | André Domingues ([voxivoid](https://github.com/voxivoid)) | Film simulations and camera looks, stored in the camera | [voxivoid/recipe-lab-sony-pmca](https://github.com/voxivoid/recipe-lab-sony-pmca) |
 
-BetterManual and FocusBracket are MIT-licensed. JPEGCAM is free to use in its Light edition;
+BetterManual and FocusBracket are MIT-licensed, Recipe Lab is GPL-3.0. Recipe Lab's author
+publishes his own source (`voxivoid/recipe-lab-sony-pmca`); the entry here is identical to it,
+so the app is shown once even if you add both. JPEGCAM is free to use in its Light edition;
 the optional Pro license is sold by its author at [jpeg.cam](https://jpeg.cam). It is listed
 with its author's permission: the APK is always downloaded from his servers, and the program
 installs it only if it is signed with his certificate (`cert_sha256` in the entry), the first
