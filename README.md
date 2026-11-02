@@ -28,6 +28,9 @@ installs it only if it is signed with his certificate (`cert_sha256` in the entr
 install included. All credit belongs to the authors; read their pages for which cameras the
 apps were made for and tested on.
 
+BetterManual and FocusBracket are listed with their author's permission but are no longer
+maintained. Please don't send bug reports to the author; open an issue here instead.
+
 ## Use it
 
 In PMCA-RE RELOADED: *Settings → App and plugin sources* → add `masterflai/pmca-community-sources`.
